@@ -1,1 +1,3 @@
-{'ver1':'19', 'ver2':'98', 'ver3':'\n• [Important Update]\n• Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n• [تحديث جديد مهم]\n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ على عمل واتساب بشكل جيد\n' , 'dli':'https://www.abu2rab.com/2024/03/gb-whatsapp-download.html'}
+الاصدار 1.00 سجل التغيرات:
+
+>[مزيد] إصلاحات وتحسينات أخرى.  
