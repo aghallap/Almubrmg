@@ -1,3 +1,20 @@
-Version 1.00. Changelog:
+What's new in this update V20.19
 
->Bugs Fixed
+ [Added] A new option has been added to download personal photos to the gallery.
+ [Added] Quick Contact Sidebar.
+ [Added] Navigation Effects.
+ [Added] Filter chats.
+ [Fixed] Change the background color for the Tabs in home screen.
+ [Fixed] Crash problem in notifying who has viewed your status on some devices.
+ [More] Many other fixes and improvements.
+
+ما الجديد في هذا التحديث V20.19
+
+
+[جديد] إضافة خيار جديد لتحميل الصور الشخصية الى المعرض.
+[إضافة] تمكين ميزة المحادثه السريعة. 
+[إضافة] تمكين ميزة مؤاثرات التنقل.
+[إضافة] تمكين ميزة تصفية الرسائل.
+[إصلاح] تغيير لون خلفية التبويب في الشاشة الرئيسية.
+[إصلاح] مشكلة الانهيار في إشعار من شاهد حالتك على بعض الأجهزة.
+[مزيد] العديد من الاصلاحات والتحسينات الاخرى.
