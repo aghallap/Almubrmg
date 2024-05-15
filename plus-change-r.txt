@@ -1,9 +1,8 @@
-What's new in this update V20.19
+What's new in this update V20.25
 
- [Added] A new option has been added to download personal photos to the gallery.
- [Added] Quick Contact Sidebar.
- [Added] Navigation Effects.
- [Added] Filter chats.
- [Fixed] Change the background color for the Tabs in home screen.
- [Fixed] Crash problem in notifying who has viewed your status on some devices.
- [More] Many other fixes and improvements.
+ [Added] an increase in the video sending size.
+[Added] increased sending volume of audio clips.
+[Added] the option to send audio clips as a voice message or audio clips.
+[Added] and delete for everyone at any time.
+[Fixed] the crash when entering chat on some devices.
+[More] Many other fixes and improvements.
