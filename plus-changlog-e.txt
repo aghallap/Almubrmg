@@ -1,20 +1,18 @@
-What's new in this update V20.19
+What's new in this update V20.25
 
- [Added] A new option has been added to download personal photos to the gallery.
- [Added] Quick Contact Sidebar.
- [Added] Navigation Effects.
- [Added] Filter chats.
- [Fixed] Change the background color for the Tabs in home screen.
- [Fixed] Crash problem in notifying who has viewed your status on some devices.
- [More] Many other fixes and improvements.
+ [Added] an increase in the video sending size.
+[Added] increased sending volume of audio clips.
+[Added] the option to send audio clips as a voice message or audio clips.
+[Added] and delete for everyone at any time.
+[Fixed] the crash when entering chat on some devices.
+[More] Many other fixes and improvements.
 
-ما الجديد في هذا التحديث V20.19
+ما الجديد في هذا التحديث V20.25
 
 
-[جديد] إضافة خيار جديد لتحميل الصور الشخصية الى المعرض.
-[إضافة] تمكين ميزة المحادثه السريعة. 
-[إضافة] تمكين ميزة مؤاثرات التنقل.
-[إضافة] تمكين ميزة تصفية الرسائل.
-[إصلاح] تغيير لون خلفية التبويب في الشاشة الرئيسية.
-[إصلاح] مشكلة الانهيار في إشعار من شاهد حالتك على بعض الأجهزة.
+[إضافة] زيادة في حجم إرسال الفيديو.
+[إضافة] زيادة في حجم إرسال المقاطع الصوتية.
+[إضافة] خيار إرسال مقاطع الصوت كرسالة صوتية أو مقاطع صوتي.
+[إضافة] الحذف لدى الجميع في أي وقت.
+[إصلاح] الانهيار عند الدخول الى الدردشة في بعض الاجهزة.
 [مزيد] العديد من الاصلاحات والتحسينات الاخرى.
