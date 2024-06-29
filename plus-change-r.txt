@@ -1,4 +1,4 @@
-What's new in this update V20.25
+What's new in this update V20.46
 
  [Added] an increase in the video sending size.
 [Added] increased sending volume of audio clips.
