@@ -1,5 +1,5 @@
-{ "Gold": { "update_code": "7", "reminder_time": "3", "update_version": "v20.25", "com.gbwhatsapp3": "https://www.abu2rab.com/2024/03/gb-whatsapp-download.html", "update_message": " 
-<p>Update Vتحديث « 20.36</p>
+{ "Gold": { "update_code": "6", "reminder_time": "3", "update_version": "v20.25", "com.gbwhatsapp3": "https://www.abu2rab.com/2024/03/gb-whatsapp-download.html", "update_message": " 
+<p>Update Vتحديث « 20.30</p>
 <li>تحديث جديد ممتع</li>
 <li>يحتوي على العديد من المزايا الجديد الرائعة</li>
 <li>مزيد إصلاحات وتحسينات أخرى مهمة</li>
