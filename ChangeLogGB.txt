@@ -1,1 +1,1 @@
-
+{'ver1':'20', 'ver2':'70', 'ver3':'\n• [new update].\n• It contains many great new features.\n• More important fixes and improvements.\n• [تحديث جديد ممتع].\n• يحتوي على العديد من المزايا الجديد الرائعة.\n• مزيد إصلاحات وتحسينات أخرى مهمة.\n' , 'dli':'https://www.abu2rab.com/2024/03/gb-whatsapp-download.html'}
